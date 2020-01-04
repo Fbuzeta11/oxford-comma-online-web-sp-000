@@ -1,4 +1,6 @@
+array = "kiwi"
+
 def oxford_comma(array)
-kiwi.split
+array.split ""
 
 end
